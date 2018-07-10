@@ -1,0 +1,5 @@
+-> Judder of the motor is critical for the safety and performance specifications.  
+
+https://towardsdatascience.com/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1
+
+https://www.mathworks.com/discovery/machine-learning.html
